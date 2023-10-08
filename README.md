@@ -21,3 +21,11 @@ Scenario 3: Insurance Application
 Scenario 4: Legal Advice
 "Our interactive chatbot offers legal advice and guidance related to accidents, empowering users with information.”
 
+## Link To PPT
+
+https://docs.google.com/presentation/d/11EGBU9EzxYgJSAfLKb65HV4wkR0Sm4AUq6JoOB5KhUc/edit?usp=sharing
+
+##Link to Video
+
+https://youtu.be/6CPIK0z1rJE
+
