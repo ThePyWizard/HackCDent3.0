@@ -11,7 +11,7 @@ function App() {
       </div>
       <div className="col-span-3 ml-10 h-screen">
         <Routes>
-          
+        <Route path="/" element={<Viewaccident />} />
         </Routes>
       </div>
     </div>
