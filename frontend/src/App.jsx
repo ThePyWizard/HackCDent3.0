@@ -1,5 +1,6 @@
 import React from 'react'
 import { Route,Routes } from 'react-router-dom'
+import Viewaccident from './pages/Viewaccident'
 import Sidebar from './components/Sidebar'
 
 
